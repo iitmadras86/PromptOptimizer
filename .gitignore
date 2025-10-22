@@ -1,20 +1,30 @@
-# Python
+# Python bytecode and cache
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
 *.so
 
-# Environments
+# Virtual environments
 .venv/
-env/
 venv/
 ENV/
+env/
 
-# OS / IDE
+# Environment & secrets
+.env
+*.key
+*.pem
+*.json
+token_*
+credentials_*
+
+# OS & IDE
 .DS_Store
 .vscode/
 .idea/
 
-# Logs
+# Logs and temporary files
 *.log
+*.tmp
+*.bak
