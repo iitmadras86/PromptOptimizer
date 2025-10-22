@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "created": "2025-10-23T00:05:29.717026",
+  "total_entries": 9,
+  "sources": [
+    "demo"
+  ],
+  "techniques": [
+    {
+      "technique_name": "Chain of Thought",
+      "source_book": "Demo Book",
+      "page_number": 1,
+      "description": "Step-by-step reasoning approach",
+      "use_cases": [
+        "Math problems",
+        "Logic puzzles"
+      ],
+      "examples": [
+        "Let's solve this step by step"
+      ],
+      "pros": [
+        "Improves accuracy",
+        "Shows reasoning"
+      ],
+      "cons": [
+        "Longer responses",
+        "More tokens"
+      ],
+      "complexity": "Medium",
+      "keywords": [
+        "reasoning",
+        "steps",
+        "logic"
+      ],
+      "related_techniques": [
+        "Tree of Thoughts"
+      ]
+    }
+  ],
+  "metadata": {
+    "unique_techniques": 1,
+    "total_pages": 1,
+    "complexity_distribution": {
+      "Low": 0,
+      "Medium": 1,
+      "High": 0
+    }
+  }
+}
