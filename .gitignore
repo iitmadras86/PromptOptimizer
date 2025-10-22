@@ -28,3 +28,6 @@ credentials_*
 *.log
 *.tmp
 *.bak
+
+# Data folders
+Books/
